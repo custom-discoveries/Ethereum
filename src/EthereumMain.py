@@ -180,9 +180,14 @@ class Ethereum:
 
 
     def main(self, argv):
+        if (len(argv) > 0):
+            var = argv[0]
+            displayMenu=var
+        else:
+            displayMenu=True
 
         adminConsole = TigerGraphConsole()
-        self.setConnection(adminConsole.commonLoginMenu(displayMenu=True))
+        self.setConnection(adminConsole.commonLoginMenu(displayMenu))
         found = self.getConnection().check_exist_graphs(self.getConnection().graphname)
     
         if found:
