@@ -14,6 +14,6 @@ This TigerGraph python application will programmatically create a schema with Ve
         - dotenv set Secret (You will fill this in later, once the program creates a database)
         - dotenv set Token (You will fill this in later, once the program creates a database)
 ## To run program:
-- python3 EthereumMain.py
+- python3 src/EthereumMain.py
     - Make sure to write down your Secret and Token and go back and enter it into your dotenv environment
     
