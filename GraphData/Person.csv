@@ -1,0 +1,40 @@
+primary_id,id,name,gender,age,birthdate,deathdate,Account Holder,Account ID
+1,1,William Avery Rockefeller Sr.,M,96,1810-11-13,1906-05-11,,
+2,2,Eliza Davison,F,76,1813-09-12,1889-03-28,,
+3,3,Lucy Rockefeller,F,40,1838-01-01,1878-01-01,,
+4,4,William Avery Rockefeller Jr.,M,83,1839-01-01,1922-01-01,,
+5,5,John D. Rockefeller,M,98,1839-07-08,1937-05-23,TRUE,1839-0001
+6,6,Mary Ann Rockefeller,F,82,1843-01-01,1925-01-01,,
+7,7,Franklin 'Frank' Rockefeller,M,72,1845-01-01,1917-01-01,,
+8,8,Frances Rockefeller,F,2,1845-01-01,1847-01-01,,
+9,9,Laura Speiman Rockefeller,F,76,1839-09-09,1915-03-12,,1839-0002
+10,10,Elizabeth Bessie Rockefeller,F,40,1866-08-23,1906-11-14,,1866-0003
+11,11,Charles Augustus Strong,M,78,1862-11-28,1940-01-23,,
+12,12,Margaret Rockefeller Strong,F,88,1897-01-01,1985-01-01,,
+13,13,Alice Rockefeller,F,1,1869-07-14,1870-08-20,,
+14,14,Alta Rockefeller,F,91,1871-04-12,1962-06-21,,1871-0004
+15,15,John Rockefeller Prentice,M,70,1902-12-17,1972-06-13,,
+16,16,Edith Rockefeller,F,60,1872-08-31,1932-08-25,,1872-0005
+17,17,John Rockefeller McCormick,M,104,1897-01-01,2001-01-01,,
+18,18,Editha McCormick,F,101,1903-12-31,2004-01-01,,
+19,19,Harold Fowler McCormick Jr.,M,75,1898-01-01,1973-01-01,,
+20,20,Muriel McCormick,F,56,1903-01-01,1959-01-01,,
+21,21,Mathilde McCormick,F,42,1905-01-01,1947-01-01,,
+22,22,Colonel Ezra Prentice,M,92,1863-01-01,1955-01-01,,
+23,23,Harold Fowler McCormick,M,69,1872-05-02,1941-10-16,,
+24,24,John D. Rockefeller Jr.,M,86,1874-01-29,1960-05-11,,1874-0006
+25,25,Abigail Greene Aldrich,F,74,1874-10-26,1948-04-05,,
+26,26,Abigail Rockefeller,F,69,1903-11-03,1972-05-27,,
+27,27,John D. Rockefeller III,M,72,1906-03-21,1978-07-10,,
+28,28,Nelson Rockerfeller,M,71,1908-07-08,1979-01-26,,
+29,29,Laurance Rockefeller,M,94,1910-05-26,2004-07-11,,
+30,30,Winthrop Rockefeller,M,59,1912-05-01,1971-01-12,,
+31,31,David Rockefeller,M,102,1915-06-12,2017-03-20,,
+32,32,Mary Todhunter Clark,F,,1907-06-17,1999-04-21,,
+33,33,Rodman Clark Rockerfeller,M,,1932-05-02,2000-05-14,,
+34,35,Steven Clark Rockefeller,M,,1936-04-19,,,
+35,36,Michael Clark Rockefeller,M,,1938-05-18,1961-11-19,,
+36,37,Mary Rockefeller,F,,1938-05-18,,,
+37,38,Margeretta Fitler Rockfefeller,F,,1926-06-09,2015-05-19,,
+38,39,Nelson Aldrich Rockefeller Jr.,M,,1964-01-01,,,
+39,40,Mark Fitler Rockefeller,M,,1967-01-26,,,

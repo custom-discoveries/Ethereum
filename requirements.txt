@@ -1,0 +1,6 @@
+# requirements file
+
+python-dotenv~=1.0.1
+python-dotenv[cli]
+prompt_toolkit
+pyTigerGraph
