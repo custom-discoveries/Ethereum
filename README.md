@@ -1,6 +1,7 @@
 ## Ethereum
 This TigerGraph python application will programmatically create a schema with Vertex's and Edge's and load the graph with data!
-## Setup Environment
+## Install and Run
+### Setup Environment
 - Run the installPythonEnvironment.sh first
   - This will create a Python Virtural Environment and load the needed python packages
   - **Please NOTE**: You will need to rerun the **installPythonEnvironment.sh** script each time you open up a new terminal session!
@@ -16,7 +17,7 @@ This TigerGraph python application will programmatically create a schema with Ve
         - **dotenv set tgVersion** (Need to login into TigerGraph Cloud and get this from the Cluster listing)
         - **dotenv set Secret** (You will fill this in later, once the program creates a graph)
         - **dotenv set Token** (You will fill this in later, once the program creates a graph)
-## To run program:
+### Run
 - cd src/
 - python3 EthereumMain.py
     - Make sure to write down your **Secret** and **Token** and go back and enter it into your **dotenv** environment
