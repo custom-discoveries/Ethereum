@@ -3,7 +3,7 @@ This TigerGraph python application will programmatically create a schema with Ve
 ## Install and Run
 ### Setup Environment
 - Run the installPythonEnvironment.sh first
-  - This will create a Python Virtural Environment and load the needed python packages
+  - This will create a Python Virtural Environment (default version=3.10) and load the needed python packages
   - **Please NOTE**: You will need to rerun the **installPythonEnvironment.sh** script each time you open up a new terminal session!
 - Enter in your Database Environment Variables using Python dotenv command
     - See more information at: https://pypi.org/project/python-dotenv/
