@@ -8,7 +8,7 @@ This TigerGraph python application will programmatically create a schema with Ve
 - Enter in your Database Environment Variables using Python dotenv command
     - See more information at: https://pypi.org/project/python-dotenv/
     - At terminal prompt enter:
-        - **dotenv set userName** someUserName
+        - **dotenv set userName** someUserName[^1][^2]
         - **dotenv set password** somePassword
         - **dotenv set graphName** Ethereum_Graph (only a suggestion)
         - **dotenv set hostURL** (TigerGraph Network Domain vlaue)
@@ -17,6 +17,8 @@ This TigerGraph python application will programmatically create a schema with Ve
         - **dotenv set tgVersion** (Need to login into TigerGraph Cloud and get this from the Cluster listing)
         - **dotenv set Secret** (You will fill this in later, once the program creates a graph)
         - **dotenv set Token** (You will fill this in later, once the program creates a graph)
+[^1]: Note: This is the username & password of the TigerGraph DBA user, and not the account that you setup to log into the TigerGraph Cloud.
+[^2]: If you haven't alrady created a user, you will need to log into TigerGraph Cloud server and create a DBA user & password. 
 ### Run
 - cd src/
 - python3 EthereumMain.py
